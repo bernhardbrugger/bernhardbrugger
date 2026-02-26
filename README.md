@@ -24,3 +24,27 @@ I build things at the intersection of **deep learning**, **statistics**, and **f
 ### 📫 Get in touch
 
 - 🌐 [produktfinder.at](https://produktfinder.at)
+
+## ✍️ Handwriting Studio (new optimization concept)
+
+I added a prompt-driven prototype inspired by modern handwriting synthesis projects, with a focus on **realistic sheet simulation** and **creative controllability**:
+
+- Prompt parsing (`style`, `sheet`, `seed`) from natural language-like directives.
+- Procedural paper generation with grain/noise and optional ruled/grid sheets.
+- Ink rendering with jitter, slant, pressure, and blur to emulate pen dynamics.
+- FastAPI endpoint + CLI for generation workflows.
+
+### Quick start
+
+```bash
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+python -m handwriting_lab.cli "This is a realistic generated note" --prompt "style: vintage-ink; sheet: parchment; seed: 8"
+```
+
+### API
+
+```bash
+uvicorn handwriting_lab.api:app --reload
+# POST /generate {"text":"...","prompt":"style: casual-note; sheet: lined; seed: 42"}
+```
