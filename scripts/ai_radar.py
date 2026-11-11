@@ -9,6 +9,8 @@ from datetime import datetime, timezone
 README = "README.md"
 START, END = "<!-- AIRADAR:START -->", "<!-- AIRADAR:END -->"
 UA = {"User-Agent": "bernhardbrugger-profile-readme"}
+# keep the profile professional: skip jailbroken / NSFW model variants
+BLOCK = re.compile(r"uncensor|abliterat|heretic|nsfw|erotic|jailbreak|lewd|porn|hentai|unfiltered", re.I)
 
 
 def get(url):
@@ -38,10 +40,12 @@ def top_paper():
 
 
 def trending_models(n=3):
-    models = get("https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=10")
+    models = get("https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=25")
     out = []
-    for m in models[:n]:
+    for m in models:
         mid = m.get("id") or m.get("modelId")
+        if not mid or BLOCK.search(mid) or len(out) >= n:
+            continue
         out.append((mid, f"https://huggingface.co/{mid}", m.get("pipeline_tag") or "model",
                     m.get("likes", 0), m.get("downloads", 0)))
     return out
