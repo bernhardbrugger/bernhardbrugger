@@ -75,6 +75,8 @@ bernhard = Engineer(
 | [**logo-to-svg**](https://github.com/bernhardbrugger/logo-to-svg) | A Claude skill that turns raster logos into clean, editable SVGs |
 | [**produktfinder.at**](https://produktfinder.at/) | Amazon price intelligence that exposes fake discounts using real price history. Next.js + Keepa |
 
+---
+
 ### 🕰️ Before the agents
 
 Hand-written work from the years before coding agents. Same fundamentals, slower keyboard.
