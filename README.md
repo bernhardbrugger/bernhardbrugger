@@ -101,9 +101,9 @@ Hand-written work from the years before coding agents. Same fundamentals, slower
 
 | Model | Task | Likes | Downloads |
 |---|---|---|---|
-| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) | text-generation | ❤️ 1.3k | ⬇️ 16.7k |
 | [speridlabs/idol](https://huggingface.co/speridlabs/idol) | image-to-3d | ❤️ 1.9k | ⬇️ 28.2k |
 | [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) | image-text-to-text | ❤️ 1.9k | ⬇️ 33.6k |
+| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | text-to-image | ❤️ 571 | ⬇️ 143k |
 
 <sub>Pulled daily from the Hugging Face API by a GitHub Action · last run 2026-11-11</sub>
 <!-- AIRADAR:END -->
