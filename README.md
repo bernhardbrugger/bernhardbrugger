@@ -20,7 +20,7 @@ Coding agents do the typing. Claude Code, Cursor, Codex, whatever fits the job. 
 
 <!-- AGENTIC:START -->
 <p align="center">
-⚙️ <b>Last 30 days:</b> 103 commits across 11 repos · <b>99 % agent-assisted, 100 % human-reviewed</b><br>
+⚙️ <b>Last 30 days:</b> 105 commits across 13 repos · <b>99 % agent-assisted, 100 % human-reviewed</b><br>
 <sub>Auto-updated daily by a GitHub Action · last run 2026-11-11</sub>
 </p>
 <!-- AGENTIC:END -->
@@ -95,6 +95,17 @@ Hand-written work from the years before coding agents. Same fundamentals, slower
 ### 📡 AI radar
 
 <!-- AIRADAR:START -->
+📄 **Paper of the day:** [Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](https://huggingface.co/papers/2611.12806) · ▲ 96
+
+🔥 **Trending on Hugging Face**
+
+| Model | Task | Likes | Downloads |
+|---|---|---|---|
+| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) | text-generation | ❤️ 1.3k | ⬇️ 16.7k |
+| [speridlabs/idol](https://huggingface.co/speridlabs/idol) | image-to-3d | ❤️ 1.9k | ⬇️ 28.2k |
+| [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) | image-text-to-text | ❤️ 1.9k | ⬇️ 33.6k |
+
+<sub>Pulled daily from the Hugging Face API by a GitHub Action · last run 2026-11-11</sub>
 <!-- AIRADAR:END -->
 
 ---
