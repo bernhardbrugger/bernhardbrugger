@@ -83,10 +83,9 @@ def render(total, agent, repos):
         line = f"⚙️ <b>Last {DAYS} days:</b> quiet month, the agents are recharging."
     else:
         pct = round(100 * agent / total)
-        filled = round(pct / 10)
-        bar = "█" * filled + "░" * (10 - filled)
-        line = (f"⚙️ <b>Last {DAYS} days:</b> {total} commits · <b>{pct} % co-authored with AI agents</b> "
-                f"· {repos} repos touched<br>\n<code>{bar}</code> {pct} % agentic")
+        repo_word = "repo" if repos == 1 else "repos"
+        line = (f"⚙️ <b>Last {DAYS} days:</b> {total} commits across {repos} {repo_word} · "
+                f"<b>{pct} % agent-assisted, 100 % human-reviewed</b>")
     return (f"{START}\n<p align=\"center\">\n{line}<br>\n"
             f"<sub>Auto-updated daily by a GitHub Action · last run {today}</sub>\n</p>\n{END}")
 
