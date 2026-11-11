@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Bernhard 👋</h1>
 
 <p align="center">
-  <b>Agentic Engineer · AI/ML · Quant Developer</b><br>
+  <b>Agentic Engineer · Deep Learning · Quant & Data Science · APIs & Cloud</b><br>
   Salzburg, Austria 🏔️<br><br>
   <i>10 years of data science and deep learning. Now I build at the speed of thought.</i>
 </p>
@@ -14,7 +14,7 @@ The best developers of the next decade won't be the fastest typists.
 They'll be the ones who know **what** to build, can tell an agent **how** to build it, and can spot **when it's wrong**.
 
 That's what I do. I write the spec, orchestrate the agents, and review what comes back.
-Claude Code and Cursor do the typing. Ten years of statistics, machine learning and production systems do the judging.
+Coding agents do the typing. Claude Code, Cursor, Codex, whatever fits the job. Ten years of statistics, machine learning and production systems do the judging.
 
 > **Vibes for the prototype. Engineering for production.**
 
@@ -28,7 +28,7 @@ Claude Code and Cursor do the typing. Ten years of statistics, machine learning 
 ```python
 bernhard = Engineer(
     years_in_data      = 10,
-    writes_every_line  = False,   # not since 2025
+    writes_every_line  = False,   # automating since day one
     reads_every_diff   = True,    # always
     trusts_the_agent   = "after the tests pass",
 )
@@ -42,6 +42,7 @@ bernhard = Engineer(
 - **Plan → build → verify → commit.** Checkpoints instead of "accept all".
 - **Verify against real data.** If an agent says it works, I check the numbers in production. A good-looking diff isn't proof.
 - **Statistics before storytelling.** Every signal gets tested against randomness first, so I don't fall for the Texas sharpshooter fallacy.
+- **APIs are the backbone.** Most real value sits between systems, so I design clean interfaces, respect rate limits and build retries in from the start.
 - **Smallest thing that works.** A single HTML file when that's enough, FastAPI + Postgres when it isn't.
 - **Own the stack.** Self-hosted, EU-based, privacy by design. Secrets stay secret.
 
@@ -57,11 +58,12 @@ bernhard = Engineer(
 | **LLM Systems** | RAG, agents, MCP servers, tool use, structured outputs, evals |
 | **Cloud & Infra** | Linux, Docker, nginx, PostgreSQL, GitHub Actions, monitoring, encrypted backups |
 | **Security & Privacy** | GDPR by design, NIS2, hardening, least privilege, compliant AI hosting |
-| **Apps & APIs** | Next.js, React, FastAPI, REST integrations (Keepa, FMP, Alpha Vantage, HR/ERP systems) |
+| **APIs & Integrations** | Designing and wiring APIs: REST, webhooks, OAuth, rate limits, retries and caching. Data pipelines between finance, e-commerce and HR/ERP systems (Keepa, FMP, Alpha Vantage, SerpAPI, Hugging Face and more), plus MCP servers that expose them to LLMs |
+| **Web Apps** | Next.js, React, TypeScript, FastAPI, PostgreSQL, from first prototype to production |
 
 ---
 
-### 🚀 Things I've shipped (or am shipping)
+### 🚀 Things I've shipped
 
 | Project | What it does |
 |---|---|
@@ -69,9 +71,16 @@ bernhard = Engineer(
 | [**logo-to-svg**](https://github.com/bernhardbrugger/logo-to-svg) | A Claude skill that turns raster logos into clean, editable SVGs |
 | [**qr-beam**](https://github.com/bernhardbrugger/qr-beam) | Offline file transfer from screen to phone camera through a stream of QR codes. Fountain codes in a single HTML file |
 | [**parlament-at-mcp**](https://github.com/bernhardbrugger/parlament-at-mcp) | MCP server that gives LLMs direct access to the Austrian Parliament's open data |
-| **DTW pattern engine** | Pick any chart window and get the closest historical matches plus what happened next. Chronos embeddings with nearest-neighbor search *(building)* |
 | [**produktfinder.at**](https://produktfinder.at/) | Amazon price intelligence that exposes fake discounts using real price history. Next.js + Keepa |
-| **OSM AI search** | Ask OpenStreetMap questions in plain language and get summaries back *(building)* |
+
+### 🕰️ Before the agents
+
+Hand-written work from the years before coding agents. Same fundamentals, slower keyboard.
+
+| Project | What it shows |
+|---|---|
+| [**covid-2020-analysis**](https://github.com/bernhardbrugger/covid-2020-analysis) | Spring 2020, during the first wave: logistic curve fits and **DTW time-series clustering** of countries by outbreak shape |
+| [**kaggle-notebooks**](https://github.com/bernhardbrugger/kaggle-notebooks) | Kaggle competitions 2021–2023: G-Research Crypto (gradient-boosting stack + LSTM), Ubiquant, JPX, AmEx, HuBMAP, OTTO, GoDaddy |
 
 ---
 
@@ -83,11 +92,16 @@ bernhard = Engineer(
 - Sovereign, EU-hosted AI for small and mid-sized businesses
 - ML that runs entirely in the browser (transformers.js, MediaPipe, WebRTC)
 
+### 📡 AI radar
+
+<!-- AIRADAR:START -->
+<!-- AIRADAR:END -->
+
 ---
 
 ### 🛠️ Stack
 
-`Claude Code` `Cursor` `MCP` `Python` `PyTorch` `TensorFlow` `scikit-learn` `pandas` `FastAPI` `TypeScript` `Next.js` `React` `Node.js` `PostgreSQL` `Qdrant` `Docker` `GitHub Actions` `Linux`
+`Claude Code` `Cursor` `Codex` `MCP` `Python` `PyTorch` `TensorFlow` `scikit-learn` `pandas` `FastAPI` `TypeScript` `Next.js` `React` `Node.js` `PostgreSQL` `Qdrant` `Docker` `GitHub Actions` `Linux`
 
 ---
 

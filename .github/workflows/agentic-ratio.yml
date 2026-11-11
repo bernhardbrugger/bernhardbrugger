@@ -1,4 +1,4 @@
-name: Agentic ratio
+name: Profile automations
 
 on:
   schedule:
@@ -16,14 +16,16 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Update README
+      - name: Update agentic ratio
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/agentic_ratio.py
+      - name: Update AI radar
+        run: python scripts/ai_radar.py
       - name: Commit if changed
         run: |
           if git diff --quiet; then echo "No changes"; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "chore: update agentic ratio"
+          git commit -am "chore: daily profile update"
           git push
