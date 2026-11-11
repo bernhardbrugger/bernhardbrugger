@@ -67,10 +67,12 @@ bernhard = Engineer(
 
 | Project | What it does |
 |---|---|
+| [**parlament-at-mcp**](https://github.com/bernhardbrugger/parlament-at-mcp) | MCP server that gives LLMs direct access to the Austrian Parliament's open data |
+| [**qr-beam**](https://github.com/bernhardbrugger/qr-beam) | Offline file transfer from screen to phone camera through a stream of QR codes. Fountain codes in a single HTML file |
+| [**swarm**](https://github.com/bernhardbrugger/swarm) | Turns images, text or your webcam into a living 3D particle swarm, with on-device AI depth, sound reactivity and video export. Runs fully in the browser · [live demo](https://bernhardbrugger.github.io/swarm/) |
+| [**shardkey**](https://github.com/bernhardbrugger/shardkey) | Splits a secret into QR-code shares with Shamir's Secret Sharing (any *k* of *n* restore it). One offline HTML file, built from scratch over GF(256) and fully tested · [live demo](https://bernhardbrugger.github.io/shardkey/) |
 | [**capitol-street-bets**](https://github.com/bernhardbrugger/capitol-street-bets) | Ranks the stock trades of US Congress members. Refreshes itself daily via GitHub Actions, runs on GitHub Pages |
 | [**logo-to-svg**](https://github.com/bernhardbrugger/logo-to-svg) | A Claude skill that turns raster logos into clean, editable SVGs |
-| [**qr-beam**](https://github.com/bernhardbrugger/qr-beam) | Offline file transfer from screen to phone camera through a stream of QR codes. Fountain codes in a single HTML file |
-| [**parlament-at-mcp**](https://github.com/bernhardbrugger/parlament-at-mcp) | MCP server that gives LLMs direct access to the Austrian Parliament's open data |
 | [**produktfinder.at**](https://produktfinder.at/) | Amazon price intelligence that exposes fake discounts using real price history. Next.js + Keepa |
 
 ### 🕰️ Before the agents
