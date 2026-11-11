@@ -19,6 +19,11 @@ Claude Code and Cursor do the typing. Ten years of statistics, machine learning 
 > **Vibes for the prototype. Engineering for production.**
 
 <!-- AGENTIC:START -->
+<p align="center">
+⚙️ <b>Last 30 days:</b> 103 commits · <b>99 % co-authored with AI agents</b> · 11 repos touched<br>
+<code>██████████</code> 99 % agentic<br>
+<sub>Auto-updated daily by a GitHub Action · last run 2026-11-11</sub>
+</p>
 <!-- AGENTIC:END -->
 
 ```python
