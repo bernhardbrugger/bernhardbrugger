@@ -18,6 +18,9 @@ Claude Code and Cursor do the typing. Ten years of statistics, machine learning 
 
 > **Vibes for the prototype. Engineering for production.**
 
+<!-- AGENTIC:START -->
+<!-- AGENTIC:END -->
+
 ```python
 bernhard = Engineer(
     years_in_data      = 10,
