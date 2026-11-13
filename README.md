@@ -90,15 +90,15 @@ Hand-written work from the years before coding agents. Same fundamentals, slower
 
 ### ✍️ Writing
 
-I write about statistics, ML and quant finance on [Medium](https://bernhard-brugger.medium.com/). Most-read articles:
+I write about statistics, ML and quant finance on [Medium](https://bernhard-brugger.medium.com/): **200K+ views and 76K+ reads** so far. Most-read articles:
 
-| Article | Published in | |
-|---|---|---|
-| [A Guide to Panel Data Regression: Theoretics and Implementation with Python](https://bernhard-brugger.medium.com/a-guide-to-panel-data-regression-theoretics-and-implementation-with-python-4c84c5055cf8) | Towards Data Science | 👏 776 |
-| [Understanding Time Series Clustering: Hierarchical Clustering and Dynamic Time Warping](https://bernhard-brugger.medium.com/understanding-time-series-clustering-hands-on-hierarchical-clustering-and-dynamic-time-warping-25d7693c39c8) | DataDrivenInvestor | 👏 171 |
-| [Reinforcement Learning in Finance: Optimizing Portfolio Management with Python](https://bernhard-brugger.medium.com/reinforcement-learning-in-finance-optimizing-portfolio-management-with-python-implementation-38f6e8b325b9) | CodeX | 👏 159 |
-| [The Only Realistic Guide to Backtesting Machine Learning Quant Strategies](https://bernhard-brugger.medium.com/stop-wasting-time-and-money-the-only-realistic-guide-to-backtesting-machine-learning-quant-48690a8b31c9) | DataDrivenInvestor | 👏 56 |
-| [Why Your p-Value Tells You Nothing About Practical Relevance](https://bernhard-brugger.medium.com/why-your-p-value-tells-you-nothing-about-practical-relevance-and-what-you-should-do-instead-ed4f931ba692) | CodeX | 👏 52 |
+| Article | Published in | Views | Reads | Claps |
+|---|---|---:|---:|---:|
+| [A Guide to Panel Data Regression: Theoretics and Implementation with Python](https://bernhard-brugger.medium.com/a-guide-to-panel-data-regression-theoretics-and-implementation-with-python-4c84c5055cf8) | Towards Data Science | 190K | 72K | 776 |
+| [Adaptive Boosting: A Stepwise Explanation of the Algorithm](https://bernhard-brugger.medium.com/adaptive-boosting-a-stepwise-explanation-of-the-algorithm-50b75c3729c1) | Towards Data Science | 3.1K | 1.5K | 6 |
+| [Understanding Time Series Clustering: Hierarchical Clustering and Dynamic Time Warping](https://bernhard-brugger.medium.com/understanding-time-series-clustering-hands-on-hierarchical-clustering-and-dynamic-time-warping-25d7693c39c8) | DataDrivenInvestor | 3.7K | 1.2K | 171 |
+| [Reinforcement Learning in Finance: Optimizing Portfolio Management with Python](https://bernhard-brugger.medium.com/reinforcement-learning-in-finance-optimizing-portfolio-management-with-python-implementation-38f6e8b325b9) | CodeX | 1.2K | 531 | 159 |
+| [Verbalized Sampling: How One Prompt Can Bring Back the Creative Potential of LLMs](https://bernhard-brugger.medium.com/verbalized-sampling-how-one-single-prompt-can-bring-back-the-creative-potential-of-large-language-92f291519854) | Data Science Collective | 1K | 330 | 18 |
 
 ---
 
