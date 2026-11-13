@@ -20,8 +20,8 @@ Coding agents do the typing. Claude Code, Cursor, Codex, whatever fits the job. 
 
 <!-- AGENTIC:START -->
 <p align="center">
-⚙️ <b>Last 30 days:</b> 118 commits across 16 repos · <b>98 % agent-assisted, 100 % human-reviewed</b><br>
-<sub>Auto-updated daily by a GitHub Action · last run 2026-11-12</sub>
+⚙️ <b>Last 30 days:</b> 133 commits across 17 repos · <b>98 % agent-assisted, 100 % human-reviewed</b><br>
+<sub>Auto-updated daily by a GitHub Action · last run 2026-11-13</sub>
 </p>
 <!-- AGENTIC:END -->
 
@@ -113,17 +113,17 @@ I write about statistics, ML and quant finance on [Medium](https://bernhard-brug
 ### 📡 AI radar
 
 <!-- AIRADAR:START -->
-📄 **Paper of the day:** [Tree-Ising: Repairing Language Models with Bit-Level Ising Edits](https://huggingface.co/papers/2611.14210) · ▲ 86
+📄 **Paper of the day:** [SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](https://huggingface.co/papers/2611.15777) · ▲ 51
 
 🔥 **Trending on Hugging Face**
 
 | Model | Task | Likes | Downloads |
 |---|---|---|---|
-| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | text-to-image | ❤️ 807 | ⬇️ 306.7k |
-| [speridlabs/idol](https://huggingface.co/speridlabs/idol) | image-to-3d | ❤️ 2.2k | ⬇️ 29.9k |
-| [NousResearch/Arete-27B](https://huggingface.co/NousResearch/Arete-27B) | text-generation | ❤️ 458 | ⬇️ 4.7k |
+| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | text-to-image | ❤️ 945 | ⬇️ 437k |
+| [NousResearch/Arete-27B](https://huggingface.co/NousResearch/Arete-27B) | text-generation | ❤️ 513 | ⬇️ 5.5k |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | image-to-video | ❤️ 11.7k | ⬇️ 2.8M |
 
-<sub>Pulled daily from the Hugging Face API by a GitHub Action · last run 2026-11-12</sub>
+<sub>Pulled daily from the Hugging Face API by a GitHub Action · last run 2026-11-13</sub>
 <!-- AIRADAR:END -->
 
 ---
