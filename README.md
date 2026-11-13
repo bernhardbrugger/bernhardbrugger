@@ -88,6 +88,20 @@ Hand-written work from the years before coding agents. Same fundamentals, slower
 
 ---
 
+### ✍️ Writing
+
+I write about statistics, ML and quant finance on [Medium](https://bernhard-brugger.medium.com/). Most-read articles:
+
+| Article | Published in | |
+|---|---|---|
+| [A Guide to Panel Data Regression: Theoretics and Implementation with Python](https://bernhard-brugger.medium.com/a-guide-to-panel-data-regression-theoretics-and-implementation-with-python-4c84c5055cf8) | Towards Data Science | 👏 776 |
+| [Understanding Time Series Clustering: Hierarchical Clustering and Dynamic Time Warping](https://bernhard-brugger.medium.com/understanding-time-series-clustering-hands-on-hierarchical-clustering-and-dynamic-time-warping-25d7693c39c8) | DataDrivenInvestor | 👏 171 |
+| [Reinforcement Learning in Finance: Optimizing Portfolio Management with Python](https://bernhard-brugger.medium.com/reinforcement-learning-in-finance-optimizing-portfolio-management-with-python-implementation-38f6e8b325b9) | CodeX | 👏 159 |
+| [The Only Realistic Guide to Backtesting Machine Learning Quant Strategies](https://bernhard-brugger.medium.com/stop-wasting-time-and-money-the-only-realistic-guide-to-backtesting-machine-learning-quant-48690a8b31c9) | DataDrivenInvestor | 👏 56 |
+| [Why Your p-Value Tells You Nothing About Practical Relevance](https://bernhard-brugger.medium.com/why-your-p-value-tells-you-nothing-about-practical-relevance-and-what-you-should-do-instead-ed4f931ba692) | CodeX | 👏 52 |
+
+---
+
 ### 🔭 Currently exploring
 
 - Multi-agent workflows with real quality gates, so the output holds up in production
@@ -122,7 +136,7 @@ Hand-written work from the years before coding agents. Same fundamentals, slower
 
 <p align="center">
   <i>Building something at the intersection of AI, data and money? Let's talk.</i><br><br>
-  📫 <a href="mailto:hello.bernhard@proton.me">hello.bernhard@proton.me</a>
+  📫 <a href="mailto:hello.bernhard@proton.me">hello.bernhard@proton.me</a> · ✍️ <a href="https://bernhard-brugger.medium.com/">Medium</a>
 </p>
 
 <!--
