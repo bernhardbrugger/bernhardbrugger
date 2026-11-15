@@ -20,8 +20,8 @@ Coding agents do the typing. Claude Code, Cursor, Codex, whatever fits the job. 
 
 <!-- AGENTIC:START -->
 <p align="center">
-⚙️ <b>Last 30 days:</b> 141 commits across 17 repos · <b>99 % agent-assisted, 100 % human-reviewed</b><br>
-<sub>Auto-updated daily by a GitHub Action · last run 2026-11-14</sub>
+⚙️ <b>Last 30 days:</b> 151 commits across 17 repos · <b>99 % agent-assisted, 100 % human-reviewed</b><br>
+<sub>Auto-updated daily by a GitHub Action · last run 2026-11-15</sub>
 </p>
 <!-- AGENTIC:END -->
 
@@ -113,17 +113,17 @@ I write about statistics, ML and quant finance on [Medium](https://bernhard-brug
 ### 📡 AI radar
 
 <!-- AIRADAR:START -->
-📄 **Paper of the day:** [SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](https://huggingface.co/papers/2611.15777) · ▲ 83
+📄 **Paper of the day:** [SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](https://huggingface.co/papers/2611.15777) · ▲ 136
 
 🔥 **Trending on Hugging Face**
 
 | Model | Task | Likes | Downloads |
 |---|---|---|---|
-| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | text-to-image | ❤️ 1.1k | ⬇️ 517.9k |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | image-to-video | ❤️ 11.8k | ⬇️ 2.8M |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | image-text-to-text | ❤️ 19.9k | ⬇️ 6.8M |
+| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | text-to-image | ❤️ 1.1k | ⬇️ 571.1k |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | image-text-to-text | ❤️ 20.1k | ⬇️ 6.5M |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | image-to-video | ❤️ 12k | ⬇️ 2.8M |
 
-<sub>Pulled daily from the Hugging Face API by a GitHub Action · last run 2026-11-14</sub>
+<sub>Pulled daily from the Hugging Face API by a GitHub Action · last run 2026-11-15</sub>
 <!-- AIRADAR:END -->
 
 ---
