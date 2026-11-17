@@ -20,8 +20,8 @@ Coding agents do the typing. Claude Code, Cursor, Codex, whatever fits the job. 
 
 <!-- AGENTIC:START -->
 <p align="center">
-⚙️ <b>Last 30 days:</b> 136 commits across 16 repos · <b>99 % agent-assisted, 100 % human-reviewed</b><br>
-<sub>Auto-updated daily by a GitHub Action · last run 2026-11-16</sub>
+⚙️ <b>Last 30 days:</b> 177 commits across 18 repos · <b>99 % agent-assisted, 100 % human-reviewed</b><br>
+<sub>Auto-updated daily by a GitHub Action · last run 2026-11-17</sub>
 </p>
 <!-- AGENTIC:END -->
 
@@ -120,17 +120,17 @@ I write about statistics, ML and quant finance on [Medium](https://bernhard-brug
 ### 📡 AI radar
 
 <!-- AIRADAR:START -->
-📄 **Paper of the day:** [SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](https://huggingface.co/papers/2611.15777) · ▲ 85
+📄 **Paper of the day:** [VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender](https://huggingface.co/papers/2611.15789) · ▲ 88
 
 🔥 **Trending on Hugging Face**
 
 | Model | Task | Likes | Downloads |
 |---|---|---|---|
-| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | text-to-image | ❤️ 1.2k | ⬇️ 609.1k |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | image-text-to-text | ❤️ 20.2k | ⬇️ 6.8M |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | image-to-video | ❤️ 12.1k | ⬇️ 2.8M |
+| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | text-to-image | ❤️ 1.4k | ⬇️ 727.1k |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | image-text-to-text | ❤️ 20.3k | ⬇️ 6.9M |
+| [Comfy-Org/MiniMax-H3-Image](https://huggingface.co/Comfy-Org/MiniMax-H3-Image) | text-to-image | ❤️ 509 | ⬇️ 2.7M |
 
-<sub>Pulled daily from the Hugging Face API by a GitHub Action · last run 2026-11-16</sub>
+<sub>Pulled daily from the Hugging Face API by a GitHub Action · last run 2026-11-17</sub>
 <!-- AIRADAR:END -->
 
 ---
