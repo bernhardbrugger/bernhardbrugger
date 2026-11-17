@@ -36,6 +36,12 @@ bernhard = Engineer(
 
 ---
 
+### 🤖 I don't just use an agent. I run my repos with one.
+
+A ranked work queue, one verified change per commit, CI checked after every push, a human inbox for the decisions that are mine, and metrics that are generated, not typed.
+
+**→ [vibe-coding-showcase](https://github.com/bernhardbrugger/vibe-coding-showcase):** the architecture, the guardrails, case studies including the mistakes and how they were caught, and live numbers.
+
 ### ⚡ How I build
 
 - **Spec first.** Every project starts with a `CLAUDE.md`, not an empty file.
@@ -67,6 +73,7 @@ bernhard = Engineer(
 
 | Project | What it does |
 |---|---|
+| [**vibe-coding-showcase**](https://github.com/bernhardbrugger/vibe-coding-showcase) | How I run a portfolio of repos with an autonomous AI maintainer: workflows, guardrails, case studies and generated metrics |
 | [**parlament-at-mcp**](https://github.com/bernhardbrugger/parlament-at-mcp) | MCP server that gives LLMs direct access to the Austrian Parliament's open data |
 | [**qr-beam**](https://github.com/bernhardbrugger/qr-beam) | Offline file transfer from screen to phone camera through a stream of QR codes. Fountain codes in a single HTML file |
 | [**swarm**](https://github.com/bernhardbrugger/swarm) | Turns images, text or your webcam into a living 3D particle swarm, with on-device AI depth, sound reactivity and video export. Runs fully in the browser · [live demo](https://bernhardbrugger.github.io/swarm/) |
