@@ -20,8 +20,8 @@ Coding agents do the typing. Claude Code, Cursor, Codex, whatever fits the job. 
 
 <!-- AGENTIC:START -->
 <p align="center">
-⚙️ <b>Last 30 days:</b> 218 commits across 18 repos · <b>99 % agent-assisted, 100 % human-reviewed</b><br>
-<sub>Auto-updated daily by a GitHub Action · last run 2026-11-22</sub>
+⚙️ <b>Last 30 days:</b> 223 commits across 18 repos · <b>99 % agent-assisted, 100 % human-reviewed</b><br>
+<sub>Auto-updated daily by a GitHub Action · last run 2026-11-23</sub>
 </p>
 <!-- AGENTIC:END -->
 
@@ -120,17 +120,17 @@ I write about statistics, ML and quant finance on [Medium](https://bernhard-brug
 ### 📡 AI radar
 
 <!-- AIRADAR:START -->
-📄 **Paper of the day:** [WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection](https://huggingface.co/papers/2611.21373) · ▲ 54
+📄 **Paper of the day:** [cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction](https://huggingface.co/papers/2611.27193) · ▲ 81
 
 🔥 **Trending on Hugging Face**
 
 | Model | Task | Likes | Downloads |
 |---|---|---|---|
-| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) | image-text-to-text | ❤️ 3.9k | ⬇️ 23.5k |
-| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) | image-text-to-text | ❤️ 750 | ⬇️ 806k |
-| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) | audio-to-audio | ❤️ 569 | ⬇️ 0 |
+| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) | image-text-to-text | ❤️ 5.3k | ⬇️ 41.9k |
+| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) | image-text-to-text | ❤️ 1k | ⬇️ 1.3M |
+| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) | audio-to-audio | ❤️ 698 | ⬇️ 0 |
 
-<sub>Pulled daily from the Hugging Face API by a GitHub Action · last run 2026-11-22</sub>
+<sub>Pulled daily from the Hugging Face API by a GitHub Action · last run 2026-11-23</sub>
 <!-- AIRADAR:END -->
 
 ---
