@@ -20,8 +20,8 @@ Coding agents do the typing. Claude Code, Cursor, Codex, whatever fits the job. 
 
 <!-- AGENTIC:START -->
 <p align="center">
-⚙️ <b>Last 30 days:</b> 223 commits across 18 repos · <b>99 % agent-assisted, 100 % human-reviewed</b><br>
-<sub>Auto-updated daily by a GitHub Action · last run 2026-11-23</sub>
+⚙️ <b>Last 30 days:</b> 233 commits across 18 repos · <b>99 % agent-assisted, 100 % human-reviewed</b><br>
+<sub>Auto-updated daily by a GitHub Action · last run 2026-11-24</sub>
 </p>
 <!-- AGENTIC:END -->
 
@@ -120,17 +120,17 @@ I write about statistics, ML and quant finance on [Medium](https://bernhard-brug
 ### 📡 AI radar
 
 <!-- AIRADAR:START -->
-📄 **Paper of the day:** [cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction](https://huggingface.co/papers/2611.27193) · ▲ 81
+📄 **Paper of the day:** [Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control](https://huggingface.co/papers/2611.29897) · ▲ 156
 
 🔥 **Trending on Hugging Face**
 
 | Model | Task | Likes | Downloads |
 |---|---|---|---|
-| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) | image-text-to-text | ❤️ 5.3k | ⬇️ 41.9k |
-| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) | image-text-to-text | ❤️ 1k | ⬇️ 1.3M |
-| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) | audio-to-audio | ❤️ 698 | ⬇️ 0 |
+| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) | image-text-to-text | ❤️ 5.7k | ⬇️ 69k |
+| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) | image-text-to-text | ❤️ 1.2k | ⬇️ 1.9M |
+| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) | audio-to-audio | ❤️ 777 | ⬇️ 12.7k |
 
-<sub>Pulled daily from the Hugging Face API by a GitHub Action · last run 2026-11-23</sub>
+<sub>Pulled daily from the Hugging Face API by a GitHub Action · last run 2026-11-24</sub>
 <!-- AIRADAR:END -->
 
 ---
