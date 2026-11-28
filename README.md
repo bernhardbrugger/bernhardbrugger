@@ -20,8 +20,8 @@ Coding agents do the typing. Claude Code, Cursor, Codex, whatever fits the job. 
 
 <!-- AGENTIC:START -->
 <p align="center">
-⚙️ <b>Last 30 days:</b> 252 commits across 19 repos · <b>99 % agent-assisted, 100 % human-reviewed</b><br>
-<sub>Auto-updated daily by a GitHub Action · last run 2026-11-27</sub>
+⚙️ <b>Last 30 days:</b> 222 commits across 19 repos · <b>99 % agent-assisted, 100 % human-reviewed</b><br>
+<sub>Auto-updated daily by a GitHub Action · last run 2026-11-28</sub>
 </p>
 <!-- AGENTIC:END -->
 
@@ -120,17 +120,17 @@ I write about statistics, ML and quant finance on [Medium](https://bernhard-brug
 ### 📡 AI radar
 
 <!-- AIRADAR:START -->
-📄 **Paper of the day:** [Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability](https://huggingface.co/papers/2611.34051) · ▲ 113
+📄 **Paper of the day:** [Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability](https://huggingface.co/papers/2611.34051) · ▲ 134
 
 🔥 **Trending on Hugging Face**
 
 | Model | Task | Likes | Downloads |
 |---|---|---|---|
-| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) | image-text-to-text | ❤️ 6.4k | ⬇️ 155.7k |
-| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) | image-text-to-text | ❤️ 1.5k | ⬇️ 3.3M |
-| [SulphurAI/Sulphur-3](https://huggingface.co/SulphurAI/Sulphur-3) | model | ❤️ 1.3k | ⬇️ 539.4k |
+| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) | image-text-to-text | ❤️ 6.5k | ⬇️ 177k |
+| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) | image-text-to-text | ❤️ 1.6k | ⬇️ 3.6M |
+| [SulphurAI/Sulphur-3](https://huggingface.co/SulphurAI/Sulphur-3) | model | ❤️ 1.4k | ⬇️ 759.9k |
 
-<sub>Pulled daily from the Hugging Face API by a GitHub Action · last run 2026-11-27</sub>
+<sub>Pulled daily from the Hugging Face API by a GitHub Action · last run 2026-11-28</sub>
 <!-- AIRADAR:END -->
 
 ---
